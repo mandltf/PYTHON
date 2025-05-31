@@ -13,7 +13,7 @@ def calc_norm(M):
 list_alternatif = ['HP', 'Lenovo', 'Asus', 'Acer', 'Huawei']
 list_kriteria = ['CPU', 'GPU', 'RAM', 'Desain', 'Harga']
 
-st.header('RESPONSI AHP IF-C')
+st.header('RESPONSI AHP IF-E')
 st.write('Amanda Latifa - 123230138')
 
 # kriteria

@@ -57,7 +57,7 @@ sistem_ctrl = ctrl.ControlSystem(rules)
 sistem = ctrl.ControlSystemSimulation(sistem_ctrl)
 
 
-st.header('Responsi if-c Fuzzy')
+st.header('Responsi IF-E Fuzzy')
 st.write('Amanda Latifa - 123230138')
 
 ipk_input = st.slider('IPK : ',0,4,2)
